@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on<br><br>1.) Building full-stack web projects and AI-assisted developer tools<br>2.) Strengthening data structures, algorithms, and problem-solving skills<br>3.) Exploring practical applications of machine learning and generative AI<br><br>🤝 I’m looking to collaborate on<br>1.) Beginner-to-intermediate open-source projects in web development or Python<br>2.) Tools that improve developer productivity or learning experiences<br>3.) Data-driven or AI-enabled applications with real-world impact<br><br>🧠 I’m looking for help with<br><br>1.) Writing cleaner, more efficient code and improving code architecture<br>2.) Understanding best practices in software design and scalability<br>3.) Deepening fundamentals in algorithms and system thinking<br><br>🌱 I’m currently learning<br><br>1.) Advanced data structures and algorithms<br>2.) Machine learning concepts and model implementation<br>3.) Backend development and system design fundamentals<br><br>💬 Ask me about<br><br>1.) Web development with HTML, CSS, and JavaScript<br>2.) Getting started with programming and problem solving<br>3.) Balancing structured academics with hands-on learning<br><br>⚡ Fun fact<br><br>I enjoy breaking down complex concepts into simple explanations and stay active through sports and writing.
+🚀 I’m currently working on<br>1.) Building full-stack web projects and AI-assisted developer tools<br>2.) Strengthening data structures, algorithms, and problem-solving skills<br>3.) Exploring practical applications of machine learning and generative AI<br><br>🤝 I’m looking to collaborate on<br>1.) Beginner-to-intermediate open-source projects in web development or Python<br>2.) Tools that improve developer productivity or learning experiences<br>3.) Data-driven or AI-enabled applications with real-world impact<br><br>🧠 I’m looking for help with<br>1.) Writing cleaner, more efficient code and improving code architecture<br>2.) Understanding best practices in software design and scalability<br>3.) Deepening fundamentals in algorithms and system thinking<br><br>🌱 I’m currently learning<br>1.) Advanced data structures and algorithms<br>2.) Machine learning concepts and model implementation<br>3.) Backend development and system design fundamentals<br><br>💬 Ask me about<br>1.) Web development with HTML, CSS, and JavaScript<br>2.) Getting started with programming and problem solving<br>3.) Balancing structured academics with hands-on learning<br><br>⚡ Fun fact<br>I enjoy breaking down complex concepts into simple explanations and stay active through sports and writing.
 
 
 ## 🌐 Socials:
@@ -11,19 +11,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
-
-<!--
-**priyanshucodes786/priyanshucodes786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
