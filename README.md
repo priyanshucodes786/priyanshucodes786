@@ -1,150 +1,130 @@
 # 👋 Hi, I'm Priyanshu Kashyap
 
-Computer Science enthusiast focused on **AI/ML, Full-Stack Development, and Cybersecurity**. I build intelligent systems, predictive models, and scalable web applications to solve real-world problems.
+🚀 Building intelligent systems using **AI/ML, Full-Stack Development, and Cybersecurity** to solve real-world problems.
+💡 Passionate about **predictive analytics, developer tools, and scalable web applications.**
 
 ---
 
-# 🚀 Skills & Tech Stack
+# 🧠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
-* Python
-* JavaScript
-* C++
-* SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
 
 ### 🌐 Web Development
 
-* React.js
-* Node.js
-* Express.js
-* HTML5 / CSS3
-* REST APIs
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🤖 AI / Machine Learning
+---
 
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
-* TensorFlow / Keras
-* Data Preprocessing
-* Model Training & Evaluation
+### 🤖 Machine Learning & Data Science
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+---
 
 ### 🔐 Cybersecurity
 
-* Encryption Algorithms
-* Network Security
-* Intrusion Detection
-* Phishing Detection
-* Secure Communication Systems
-
-### 🛠 Tools & Technologies
-
-* Git & GitHub
-* Chrome Extensions Development
-* VS Code
-* Jupyter Notebook
-* LocalStorage & Web APIs
+![Network Security](https://img.shields.io/badge/Network%20Security-2C3E50?style=for-the-badge)
+![Encryption](https://img.shields.io/badge/Encryption-8E44AD?style=for-the-badge)
+![Intrusion Detection](https://img.shields.io/badge/Intrusion%20Detection-C0392B?style=for-the-badge)
+![Phishing Detection](https://img.shields.io/badge/Phishing%20Detection-E74C3C?style=for-the-badge)
 
 ---
 
-# 📌 Featured Projects
+### ⚙️ Tools & Platforms
 
-## 🤖 AI / Machine Learning
-
-**Credit Card Fraud Detection**
-Machine learning model to detect fraudulent financial transactions using classification algorithms and feature engineering.
-
-**Fake News Detection System**
-NLP-based model that classifies news articles as real or fake using text processing and machine learning.
-
-**Heart Disease Prediction**
-Predictive healthcare model trained on medical datasets to identify potential heart disease risk.
-
-**Cancer Detection System**
-Machine learning model for early cancer detection using classification techniques.
-
-**Diabetes Prediction System**
-Predicts diabetes risk using patient health data and supervised learning algorithms.
-
-**Stock Price Prediction**
-Time-series based model predicting stock price trends using historical market data.
-
-**Big Mart Sales Prediction**
-Regression model forecasting retail sales performance using structured dataset analysis.
-
-**House Price Predictor**
-Machine learning model estimating property prices based on location and features.
-
-**Rainfall Prediction System**
-Weather prediction model forecasting rainfall using historical meteorological data.
-
-**Forest Fire Prediction System**
-Predictive model detecting potential forest fires using environmental indicators.
-
-**Crime Prediction System**
-Data-driven crime prediction model analyzing historical crime patterns.
-
-**Cricket Score Predictor**
-Predicts cricket match scores using machine learning and match statistics.
-
-**CO₂ Emission Prediction**
-Environmental model forecasting carbon emissions using regression analysis.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
 
 ---
 
-## 🔐 Cybersecurity Projects
+# 🚀 Featured Projects
 
-**Phishing Detection System**
-Detects malicious phishing websites using machine learning classification techniques.
+### 🤖 AI / Machine Learning
 
-**Network Intrusion Detection System**
-AI-based system for identifying abnormal network traffic and cyber attacks.
-
-**Spam Detection System**
-NLP-based model for classifying emails as spam or legitimate.
-
-**Communication Security Project**
-Secure communication implementation using encryption techniques.
-
-**Image Security System**
-Encryption-based system protecting images from unauthorized access.
-
-**Super Cipher Project**
-Custom encryption algorithm combining multiple cryptographic techniques.
+* **Credit Card Fraud Detection**
+* **Fake News Detection System**
+* **Heart Disease Prediction**
+* **Cancer Detection**
+* **Diabetes Prediction**
+* **Stock Price Prediction**
+* **Big Mart Sales Prediction**
+* **House Price Prediction**
+* **Rainfall Prediction**
+* **Forest Fire Prediction**
+* **Crime Prediction**
+* **Cricket Score Predictor**
+* **CO₂ Emission Prediction**
 
 ---
 
-## 🌐 Web Development Projects
+### 🔐 Cybersecurity
 
-**Monica Education – Educational Consultancy Website**
-Complete functional website for an education consultancy including service pages, contact system, and responsive UI.
-
-**Amazon-Style E-Commerce Website**
-Full-stack e-commerce platform with product catalog, cart system, checkout flow, and responsive UI.
-
-**Voting Website (JavaScript)**
-Web-based voting system demonstrating client-side vote management and UI interaction.
-
-**Notification Clicker (JavaScript)**
-Interactive browser notification system built using JavaScript and Web APIs.
+* **Phishing Detection System**
+* **Network Intrusion Detection System**
+* **Spam Detection**
+* **Communication Security System**
+* **Image Security System**
+* **Super Cipher Encryption Project**
 
 ---
 
-## ⚙️ Developer Tools
+### 🌐 Web Development
 
-**DevDebug Mentor – Chrome AI Extension**
-Chrome extension designed to assist developers by providing AI-powered coding help, debugging insights, and productivity tools.
+* **Amazon-Style E-Commerce Website**
+* **Monica Education – Educational Consultancy Website**
+* **Voting Website (JavaScript)**
+* **Notification Clicker (JavaScript)**
+
+---
+
+### ⚙️ Developer Tools
+
+* **DevDebug Mentor**
+  Chrome extension with built-in AI assistance for debugging, learning, and improving code productivity.
 
 ---
 
 # 📊 GitHub Stats
 
-```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucodes786&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshucodes786\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucodes786&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucodes786\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshucodes786\&theme=tokyo-night)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=priyanshucodes786\&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+```md
+![Snake animation](https://github.com/YOUR_USERNAME/priyanshucodes786/blob/output/github-contribution-grid-snake.svg)
 ```
 
 ---
@@ -152,12 +132,15 @@ Chrome extension designed to assist developers by providing AI-powered coding he
 # 🎯 Current Focus
 
 * Building **AI-powered developer tools**
-* Developing **full-stack web applications**
-* Exploring **cybersecurity & intelligent systems**
+* Developing **full-stack platforms**
+* Exploring **cybersecurity + machine learning integration**
 
 ---
 
 # 📫 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/priyanshucodes786)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 * LinkedIn: (add link)
+
+
+If you want, I can also show you **3 small GitHub tricks that make your profile look *elite*** (used by engineers at Google/Microsoft).
