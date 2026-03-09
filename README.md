@@ -101,4 +101,4 @@
 
 # 📫 Connect With Me
 
-* LinkedIn: [(https://www.linkedin.com/in/priyanshu-kashyap-030952375)]
+* LinkedIn: https://www.linkedin.com/in/priyanshu-kashyap-030952375
