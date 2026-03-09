@@ -58,17 +58,9 @@
 
 ### 🤖 AI / Machine Learning
 
-* **Credit Card Fraud Detection**
-* **Fake News Detection System**
 * **Heart Disease Prediction**
-* **Cancer Detection**
-* **Diabetes Prediction**
 * **Stock Price Prediction**
-* **Big Mart Sales Prediction**
-* **House Price Prediction**
 * **Rainfall Prediction**
-* **Forest Fire Prediction**
-* **Crime Prediction**
 * **Cricket Score Predictor**
 * **CO₂ Emission Prediction**
 
@@ -87,7 +79,6 @@
 
 ### 🌐 Web Development
 
-* **Amazon-Style E-Commerce Website**
 * **Monica Education – Educational Consultancy Website**
 * **Voting Website (JavaScript)**
 * **Notification Clicker (JavaScript)**
@@ -100,35 +91,6 @@
   Chrome extension with built-in AI assistance for debugging, learning, and improving code productivity.
 
 ---
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshucodes786\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucodes786\&layout=compact\&theme=tokyonight)
-
----
-
-# 🔥 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshucodes786\&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=priyanshucodes786\&theme=tokyonight)
-
----
-
-# 🐍 Contribution Snake
-
-```md
-![Snake animation](https://github.com/YOUR_USERNAME/priyanshucodes786/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
 # 🎯 Current Focus
 
 * Building **AI-powered developer tools**
@@ -139,8 +101,4 @@
 
 # 📫 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 * LinkedIn: (add link)
-
-
-If you want, I can also show you **3 small GitHub tricks that make your profile look *elite*** (used by engineers at Google/Microsoft).
