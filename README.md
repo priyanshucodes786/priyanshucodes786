@@ -141,12 +141,10 @@ Chrome extension designed to assist developers by providing AI-powered coding he
 
 # 📊 GitHub Stats
 
-*(GitHub automatically renders these if you add the widgets)*
-
 ```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucodes786&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucodes786&layout=compact)
 ```
 
 ---
@@ -161,5 +159,5 @@ Chrome extension designed to assist developers by providing AI-powered coding he
 
 # 📫 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/priyanshucodes786)
 * LinkedIn: (add link)
